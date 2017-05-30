@@ -1,0 +1,1189 @@
+@media (min-width: 993px){
+  body {
+      padding: 0;
+      margin: 0;
+      overflow-x: scroll;
+      color: #595959;
+  }
+  .cabecada{
+    width: 100%;
+    background-color: red;
+    height: 252px;
+  }
+  .p1{
+    width: 100%;
+    display: inline-block;
+  }
+  .p2{
+    width: 100%;
+    height: 3em;
+    background-color: #25739e;
+    display: inline-block;
+  }
+  .oqe{
+    font-style: italic;
+    border:0;
+    font-size: 0.8em;
+    margin-left: 16%;
+    margin-top: 2%;
+    width: 390px;
+    height: 30px;
+  }
+  .bpesq{
+    margin: 0 auto;
+  }
+  .pesq{
+    background: #3c3b38;
+    width: 30px;
+    height: 34.5px;
+    margin-left: -2%;
+    border: none;
+  }
+  .op{
+    font-weight: bold;
+    margin-left: 450px;
+    margin-top: 20px;
+    color: white;
+  }
+  .textt{
+    color: white;
+
+  }
+  .logo{
+    margin-bottom: -2.5%;
+    margin-left: 5%;
+  }
+  h4{
+   padding: 0;
+   width: 50%;
+   margin:0;
+   position: relative;
+   left: 7%;
+   top: 15px;
+  }
+  ul li a:hover,ul li a:visited, ul li a:link, ul li a:active{
+    text-decoration: none;
+    color: white;
+    font-size: 1em;
+  }
+  .p1 .menucima ul.opc1{
+    font-size: 0.8em;
+    font-family: fantasy;
+    height: 25px;
+    margin-top: 20px;
+    margin-left: 21%;
+    font-weight: bold;
+  }
+  .p2 .textt .menubaixo ul.opc2{
+    font-size: 0.9em;
+    font-family: fantasy;
+    height: 25px;
+    margin-top: -5px;
+    margin-left: 48%;
+    font-weight: bold;
+  }
+  li{
+    color: white;
+    margin-right: 20px;
+  }
+  ul li {
+    display: inline;
+  }
+  .outromulti{
+    position: relative;
+    top: -46px;
+    margin-left: 78%;
+  }
+  .ads{
+    margin-left: 20%;
+  }
+  .corpo{
+    background-color: white;
+    padding-top: 4%;
+    padding-left: 7%;
+    margin: 0 auto;
+  }
+  h1{
+    font-size: 1em;
+    color: #58595b;
+  }
+  .corpo .p{
+    display: inline-block;
+    color: #a9aaac;
+    font-size: 1em;
+    padding-bottom: 10px;
+  }
+  .corpo .p p{
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 0.9em;
+    color:#a9aaac;
+    display: inline;
+  }
+  .corpo .d{
+    font-size: 0.8em;
+    color: #58595b;
+    font-weight: bold;
+  }
+  .corpo .d p{
+    font-size: 0.9em;
+    display: inline;
+    color: #a9aaac;
+  }
+  .programation{
+    padding-bottom: 8px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 0.9em;
+    width: 19%;
+    height: 45px;
+    background-color: #25739e;
+  }
+  .preco{
+    margin-top: -53px;
+    margin-left: 19.3%;
+    padding-top: 8px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 0.9em;
+    width: 19%;
+    height: 45px;
+    background-color:#939598 ;
+  }
+  .preco p{
+    font-weight: bold;
+    color: white;
+    margin-top: 9px;
+  }
+  .programations{
+    margin-top: -53px;
+    margin-left: 38.6%;
+    padding-top: 8px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 0.9em;
+    width: 19%;
+    height: 45px;
+    background-color:#939598 ;
+  }
+  .programations p{
+    font-weight: bold;
+    color: white;
+    margin-top: 9px;
+  }
+  .location{
+    margin-top: -53px;
+    margin-left: 57.9%;
+    padding-top: 8px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 0.9em;
+    width: 19%;
+    height: 45px;
+    background-color:#939598 ;
+  }
+  .location p{
+    font-weight: bold;
+    color: white;
+    margin-top: 9px;
+  }
+  .calendario{
+    display: inline-block;
+    position: relative;
+    left: 78%;
+    top: -35px;
+  }
+  .calendar{
+    display:inline;
+  }
+  .calendario p {
+    display: inline;
+    font-weight: bold;
+    font-size: 0.8em;
+    color: #595959;
+  }
+  .calendario span{
+    font-size: 0.8em;
+    color: #595959;
+    display: inline;
+  }
+  .corra{
+    position: relative;
+    top: -26px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 20px;
+  }
+  .seta{
+    display: inline;
+  }
+  .filmes{
+    height: 485px;
+  }
+  .film{
+    width: 22%;
+    position: relative;
+    left: 3%;
+    top: -20px;
+    font-size: 1em;
+    font-weight: 700;
+    color: #595959;
+  }
+  .tema{
+    font-size: 0.8em;
+    display: inline;
+    color:#595959;
+    position: relative;
+    left: 30%;
+    top: -42px;
+  }
+  .leg, .dub{
+    font-size: 0.8em;
+    display: inline;
+    color:#595959;
+  }
+  .leg{
+    position: relative;
+    left: 355px;
+    top:-53px;
+  }
+  .dub{
+    position: relative;
+    left:30%;
+    top: -33px;
+  }
+  .sala1, .sala2{
+    font-size: 0.8em;
+    display: inline;
+    color:#595959;
+  }
+  .salinha, .salinha1 {
+    font-weight: bold;
+  }
+  .sala1{
+    position: relative;
+    left: 400px;
+    top:-51px;
+  }
+  .sala2{
+    position: relative;
+    top: -30px;
+    left: 33%;
+  }
+  .guardian{
+    position: relative;
+    top: -160px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 45px;
+  }
+  .classic{
+    width: 6%;
+    height: 60px;
+    background-color: #f79136;
+    margin-left: 90.3%;
+    position: relative;
+    top: -163px;
+  }
+  .classic img{
+    position: relative;
+    top: 25%;
+    left: 25%;
+  }
+  .comprar{
+    width: 6%;
+    height: 60px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -103px;
+  }
+  .comprar img{
+    position: relative;
+    top: 25%;
+    left: 25%;
+  }
+  .classic1{
+    width: 6%;
+    height: 85px;
+    background-color: #e7c210;
+    margin-left: 90.3%;
+    position: relative;
+    top: -331px;
+  }
+  .classic1 img{
+    position: relative;
+    top: 30%;
+    left: 27%;
+  }
+  .comprar1{
+    width: 6%;
+    height: 85px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -246px;
+  }
+  .comprar1 img{
+    position: relative;
+    top: 30%;
+    left: 25%;
+  }
+  .pirate{
+    position: relative;
+    top: -328px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 45px;
+  }
+  .classic2{
+    width: 6%;
+    height: 85px;
+    background-color: #e7c210;
+    margin-left: 90.3%;
+    position: relative;
+    top: -511px;
+  }
+  .classic2 img{
+    position: relative;
+    top: 30%;
+    left: 27%;
+  }
+  .comprar2{
+    width: 6%;
+    height: 85px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -426px;
+  }
+  .comprar2 img{
+    position: relative;
+    top: 30%;
+    left: 25%;
+  }
+  .pirate1{
+    position: relative;
+    top: -510px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 45px;
+  }
+  .td{
+    position: relative;
+    left:-2%;
+  }
+  .dolby{
+    position: relative;
+    top:-25px;
+    left: -5%;
+  }
+  .cine{
+    position: relative;
+    left: 7%;
+  }
+  .classic3{
+    width: 6%;
+    height: 85px;
+    background-color: #e7c210;
+    margin-left: 90.3%;
+    position: relative;
+    top: -695px;
+  }
+  .classic3 img{
+    position: relative;
+    top: 30%;
+    left: 27%;
+  }
+  .comprar3{
+    width: 6%;
+    height: 85px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -610px;
+  }
+  .comprar3 img{
+    position: relative;
+    top: 30%;
+    left: 25%;
+  }
+  .rei{
+    position: relative;
+    top: -695px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 45px;
+  }
+  .classic4{
+    width: 6%;
+    height: 85px;
+    background-color: #e7c210;
+    margin-left: 90.3%;
+    position: relative;
+    top: -880px;
+  }
+  .classic4 img{
+    position: relative;
+    top: 30%;
+    left: 27%;
+  }
+  .comprar4{
+    width: 6%;
+    height: 85px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -795px;
+  }
+  .comprar4 img{
+    position: relative;
+    top: 30%;
+    left: 25%;
+  }
+  .vef{
+    position: relative;
+    top: -878px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 45px;
+  }
+  .classic5{
+    width: 6%;
+    height: 85px;
+    background-color: #e7c210;
+    margin-left: 90.3%;
+    position: relative;
+    top: -1049px;
+  }
+  .classic5 img{
+    position: relative;
+    top: 30%;
+    left: 27%;
+  }
+  .comprar5{
+    width: 6%;
+    height: 85px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -963px;
+  }
+  .comprar5 img{
+    position: relative;
+    top: 30%;
+    left: 25%;
+  }
+  .tira{
+    padding: 1%;
+    color: white;
+    background-color: #777777;
+    display: inline-block;
+    width: 94.5%;
+  }
+  .tira p{
+    display: inline;
+  }
+  .tira span{
+    display: inline;
+    font-weight: bold;
+  }
+  .precomult{
+    width: 50%;
+  }
+  .precomult p{
+    font-weight: bold;
+    color: #0085c8;
+  }
+  .precomult span{
+    font-weight: bold;
+  }
+  .lei{
+    margin-top: 25px;
+  }
+  .informs{
+    position: relative;
+    top: -605px;
+    left: 51%;
+  }
+  .informs p{
+    font-weight: bold;
+    color: #0085c8;
+  }
+  .baixo{
+    background-color: #f4f4f4;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .maps{
+    width: 80%;
+    margin: 0 auto;
+    color: #ec1c24;
+    font-weight: bold;
+    border-bottom: 1px solid #ec1c24;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+  .email{
+    width: 500px;
+    position: relative;
+    left: 600px;
+    display: inline-block;
+  }
+  .email p {
+    display: inline;
+  }
+  .email input {
+    display: inline;
+  }
+  .email button {
+    height: 28px;
+    width: 28px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    background: #ec1c24;
+    display: inline;
+  }
+  .baixo p{
+    margin-left: 10%;
+    width: 150px;
+    height: 5px;
+  }
+  .dois{
+   position: relative;
+   top: -20px;
+   left: 150px;
+  }
+  .tres{
+    position: relative;
+    top: -40px;
+    left: 300px;
+  }
+  .quatro{
+    position: relative;
+    top: -60px;
+    left: 400px;
+  }
+  .cinco{
+    position: relative;
+    top: -80px;
+    left: 550px;
+  }
+  .seis{
+    position: relative;
+    top: -100px;
+    left: 700px;
+  }
+}
+@media (max-width: 993px){
+  body {
+      width: 993px;
+      padding: 0;
+      margin: 0;
+      overflow-x: scroll;
+      color: #595959;
+  }
+  .cabecada{
+    width: 100%;
+    background-color: red;
+    height: 252px;
+  }
+  .p1{
+    width: 100%;
+    display: inline-block;
+  }
+  .p2{
+    width: 100%;
+    height: 3em;
+    background-color: #25739e;
+    display: inline-block;
+  }
+  .oqe{
+    font-style: italic;
+    border:0;
+    font-size: 0.8em;
+    margin-left: 16%;
+    margin-top: 2%;
+    width: 390px;
+    height: 30px;
+  }
+  .bpesq{
+    margin: 0 auto;
+  }
+  .pesq{
+    background: #3c3b38;
+    width: 30px;
+    height: 34.5px;
+    margin-left: -2%;
+    border: none;
+  }
+  .op{
+    font-weight: bold;
+    margin-left: 450px;
+    margin-top: 20px;
+    color: white;
+  }
+  .textt{
+    color: white;
+
+  }
+  .logo{
+    margin-bottom: -2.5%;
+    margin-left: 5%;
+  }
+  h4{
+   padding: 0;
+   width: 50%;
+   margin:0;
+   position: relative;
+   left: 7%;
+   top: 15px;
+  }
+  ul li a:hover,ul li a:visited, ul li a:link, ul li a:active{
+    text-decoration: none;
+    color: white;
+    font-size: 1em;
+  }
+  .p1 .menucima ul.opc1{
+    font-size: 0.8em;
+    font-family: fantasy;
+    height: 25px;
+    margin-top: 20px;
+    margin-left: 21%;
+    font-weight: bold;
+  }
+  .p2 .textt .menubaixo ul.opc2{
+    font-size: 0.9em;
+    font-family: fantasy;
+    height: 25px;
+    margin-top: -5px;
+    margin-left: 48%;
+    font-weight: bold;
+  }
+  li{
+    color: white;
+    margin-right: 20px;
+  }
+  ul li {
+    display: inline;
+  }
+  .outromulti{
+    position: relative;
+    top: -46px;
+    margin-left: 78%;
+  }
+  .ads{
+    margin-left: 20%;
+  }
+  .corpo{
+    background-color: white;
+    padding-top: 4%;
+    padding-left: 7%;
+    margin: 0 auto;
+  }
+  h1{
+    font-size: 1em;
+    color: #58595b;
+  }
+  .corpo .p{
+    display: inline-block;
+    color: #a9aaac;
+    font-size: 1em;
+    padding-bottom: 10px;
+  }
+  .corpo .p p{
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 0.9em;
+    color:#a9aaac;
+    display: inline;
+  }
+  .corpo .d{
+    font-size: 0.8em;
+    color: #58595b;
+    font-weight: bold;
+  }
+  .corpo .d p{
+    font-size: 0.9em;
+    display: inline;
+    color: #a9aaac;
+  }
+  .programation{
+    padding-bottom: 8px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 0.9em;
+    width: 19%;
+    height: 45px;
+    background-color: #25739e;
+  }
+  .preco{
+    margin-top: -53px;
+    margin-left: 19.3%;
+    padding-top: 8px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 0.9em;
+    width: 19%;
+    height: 45px;
+    background-color:#939598 ;
+  }
+  .preco p{
+    font-weight: bold;
+    color: white;
+    margin-top: 9px;
+  }
+  .programations{
+    margin-top: -53px;
+    margin-left: 38.6%;
+    padding-top: 8px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 0.9em;
+    width: 19%;
+    height: 45px;
+    background-color:#939598 ;
+  }
+  .programations p{
+    font-weight: bold;
+    color: white;
+    margin-top: 9px;
+  }
+  .location{
+    margin-top: -53px;
+    margin-left: 57.9%;
+    padding-top: 8px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 0.9em;
+    width: 19%;
+    height: 45px;
+    background-color:#939598 ;
+  }
+  .location p{
+    font-weight: bold;
+    color: white;
+    margin-top: 9px;
+  }
+  .calendario{
+    display: inline-block;
+    position: relative;
+    left: 78%;
+    top: -35px;
+  }
+  .calendar{
+    display:inline;
+  }
+  .calendario p {
+    display: inline;
+    font-weight: bold;
+    font-size: 0.8em;
+    color: #595959;
+  }
+  .calendario span{
+    font-size: 0.8em;
+    color: #595959;
+    display: inline;
+  }
+  .corra{
+    position: relative;
+    top: -26px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 20px;
+  }
+  .seta{
+    display: inline;
+  }
+  .filmes{
+    height: 485px;
+  }
+  .film{
+    width: 22%;
+    position: relative;
+    left: 3%;
+    top: -20px;
+    font-size: 1em;
+    font-weight: 700;
+    color: #595959;
+  }
+  .tema{
+    font-size: 0.8em;
+    display: inline;
+    color:#595959;
+    position: relative;
+    left: 30%;
+    top: -42px;
+  }
+  .leg, .dub{
+    font-size: 0.8em;
+    display: inline;
+    color:#595959;
+  }
+  .leg{
+    position: relative;
+    left: 355px;
+    top:-53px;
+  }
+  .dub{
+    position: relative;
+    left:30%;
+    top: -33px;
+  }
+  .sala1, .sala2{
+    font-size: 0.8em;
+    display: inline;
+    color:#595959;
+  }
+  .salinha, .salinha1 {
+    font-weight: bold;
+  }
+  .sala1{
+    position: relative;
+    left: 400px;
+    top:-51px;
+  }
+  .sala2{
+    position: relative;
+    top: -30px;
+    left: 33%;
+  }
+  .guardian{
+    position: relative;
+    top: -160px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 45px;
+  }
+  .classic{
+    width: 6%;
+    height: 60px;
+    background-color: #f79136;
+    margin-left: 90.3%;
+    position: relative;
+    top: -163px;
+  }
+  .classic img{
+    position: relative;
+    top: 25%;
+    left: 25%;
+  }
+  .comprar{
+    width: 6%;
+    height: 60px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -103px;
+  }
+  .comprar img{
+    position: relative;
+    top: 25%;
+    left: 25%;
+  }
+  .classic1{
+    width: 6%;
+    height: 85px;
+    background-color: #e7c210;
+    margin-left: 90.3%;
+    position: relative;
+    top: -331px;
+  }
+  .classic1 img{
+    position: relative;
+    top: 30%;
+    left: 27%;
+  }
+  .comprar1{
+    width: 6%;
+    height: 85px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -246px;
+  }
+  .comprar1 img{
+    position: relative;
+    top: 30%;
+    left: 25%;
+  }
+  .pirate{
+    position: relative;
+    top: -328px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 45px;
+  }
+  .classic2{
+    width: 6%;
+    height: 85px;
+    background-color: #e7c210;
+    margin-left: 90.3%;
+    position: relative;
+    top: -511px;
+  }
+  .classic2 img{
+    position: relative;
+    top: 30%;
+    left: 27%;
+  }
+  .comprar2{
+    width: 6%;
+    height: 85px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -426px;
+  }
+  .comprar2 img{
+    position: relative;
+    top: 30%;
+    left: 25%;
+  }
+  .pirate1{
+    position: relative;
+    top: -510px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 45px;
+  }
+  .td{
+    position: relative;
+    left:-2%;
+  }
+  .dolby{
+    position: relative;
+    top:-25px;
+    left: -5%;
+  }
+  .cine{
+    position: relative;
+    left: 7%;
+  }
+  .classic3{
+    width: 6%;
+    height: 85px;
+    background-color: #e7c210;
+    margin-left: 90.3%;
+    position: relative;
+    top: -695px;
+  }
+  .classic3 img{
+    position: relative;
+    top: 30%;
+    left: 27%;
+  }
+  .comprar3{
+    width: 6%;
+    height: 85px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -610px;
+  }
+  .comprar3 img{
+    position: relative;
+    top: 30%;
+    left: 25%;
+  }
+  .rei{
+    position: relative;
+    top: -695px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 45px;
+  }
+  .classic4{
+    width: 6%;
+    height: 85px;
+    background-color: #e7c210;
+    margin-left: 90.3%;
+    position: relative;
+    top: -880px;
+  }
+  .classic4 img{
+    position: relative;
+    top: 30%;
+    left: 27%;
+  }
+  .comprar4{
+    width: 6%;
+    height: 85px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -795px;
+  }
+  .comprar4 img{
+    position: relative;
+    top: 30%;
+    left: 25%;
+  }
+  .vef{
+    position: relative;
+    top: -878px;
+    background-color: #eaeaea;
+    display: inline-block;
+    width: 80%;
+    padding: 20px;
+    height: 45px;
+  }
+  .classic5{
+    width: 6%;
+    height: 85px;
+    background-color: #e7c210;
+    margin-left: 90.3%;
+    position: relative;
+    top: -1049px;
+  }
+  .classic5 img{
+    position: relative;
+    top: 30%;
+    left: 27%;
+  }
+  .comprar5{
+    width: 6%;
+    height: 85px;
+    background-color: red;
+    margin-left: 84%;
+    position: relative;
+    top: -963px;
+  }
+  .comprar5 img{
+    position: relative;
+    top: 30%;
+    left: 25%;
+  }
+  .tira{
+    padding: 1%;
+    color: white;
+    background-color: #777777;
+    display: inline-block;
+    width: 94.5%;
+  }
+  .tira p{
+    display: inline;
+  }
+  .tira span{
+    display: inline;
+    font-weight: bold;
+  }
+  .precomult{
+    width: 50%;
+  }
+  .precomult p{
+    font-weight: bold;
+    color: #0085c8;
+  }
+  .precomult span{
+    font-weight: bold;
+  }
+  .lei{
+    margin-top: 25px;
+  }
+  .informs{
+    position: relative;
+    top: -605px;
+    left: 51%;
+  }
+  .informs p{
+    font-weight: bold;
+    color: #0085c8;
+  }
+  .baixo{
+    background-color: #f4f4f4;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .maps{
+    width: 80%;
+    margin: 0 auto;
+    color: #ec1c24;
+    font-weight: bold;
+    border-bottom: 1px solid #ec1c24;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+  .email{
+    width: 500px;
+    position: relative;
+    left: 600px;
+    display: inline-block;
+  }
+  .email p {
+    display: inline;
+  }
+  .email input {
+    display: inline;
+  }
+  .email button {
+    height: 28px;
+    width: 28px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    background: #ec1c24;
+    display: inline;
+  }
+  .baixo p{
+    margin-left: 10%;
+    width: 150px;
+    height: 5px;
+  }
+  .dois{
+   position: relative;
+   top: -20px;
+   left: 150px;
+  }
+  .tres{
+    position: relative;
+    top: -40px;
+    left: 300px;
+  }
+  .quatro{
+    position: relative;
+    top: -60px;
+    left: 400px;
+  }
+  .cinco{
+    position: relative;
+    top: -80px;
+    left: 550px;
+  }
+  .seis{
+    position: relative;
+    top: -100px;
+    left: 700px;
+  }
+}
